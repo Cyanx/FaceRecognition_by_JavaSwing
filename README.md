@@ -1,0 +1,2 @@
+# FaceRecognition_by_JavaSwing
+Java Swing写的人脸识别考勤系统，用的百度V3API
