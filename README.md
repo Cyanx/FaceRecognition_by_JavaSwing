@@ -1,2 +1,2 @@
 # FaceRecognition_JavaSwing
-Java Swing写的人脸识别考勤系统windows桌面程序，用的百度V3人脸识别API
+大二下Java期末大作业 Java Swing写的人脸识别考勤系统windows桌面程序，用的百度V3人脸识别API
